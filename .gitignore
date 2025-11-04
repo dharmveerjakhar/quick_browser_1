@@ -1,3 +1,6 @@
 node_modules
 build
 zNotes*
+.pre-commit-config.yaml
+trufflehog/
+*.DS_Store
